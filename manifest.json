@@ -1,0 +1,23 @@
+{
+  "name": "Mana Delivery – Kagaznagar",
+  "short_name": "Mana Delivery",
+  "description": "Fast & Trusted Delivery in Kagaznagar",
+  "start_url": "/Mana-delivery/index.html",
+  "scope": "/Mana-delivery/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e23744",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/Mana-delivery/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Mana-delivery/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
